@@ -223,16 +223,10 @@ Chúng tôi hoan nghênh mọi đóng góp! Vui lòng:
 - [ ] V2.0 - Web version
 - [ ] V2.1 - Advanced analytics & nutrition tracking
 
-## 📄 License
-
-Dự án này được cấp phép dưới [MIT License](LICENSE) - tự do sử dụng cho mục đích cá nhân và thương mại.
-
-## 📞 Liên Hệ & Hỗ Trợ
-
-- 📧 **Email:** support@beptroly.com
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/BepTroLy/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/yourusername/BepTroLy/discussions)
-
+## Thành viên
+- Dương Văn Việt
+- Phạm Đức Duy Tiến
+- Vương Đức Tuấn
 ---
 
 <div align="center">
@@ -242,3 +236,4 @@ Dự án này được cấp phép dưới [MIT License](LICENSE) - tự do sử
 Yêu thích dự án? Hãy ⭐ nó!
 
 </div>
+
