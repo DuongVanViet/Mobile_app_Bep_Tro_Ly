@@ -1,0 +1,11 @@
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\bin\Debug\net7.0\BepTroLy.Domain.deps.json
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\bin\Debug\net7.0\BepTroLy.Domain.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\bin\Debug\net7.0\BepTroLy.Domain.pdb
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\BepTroLy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\BepTroLy.Domain.AssemblyInfoInputs.cache
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\BepTroLy.Domain.AssemblyInfo.cs
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\BepTroLy.Domain.csproj.CoreCompileInputs.cache
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\BepTroLy.Domain.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\refint\BepTroLy.Domain.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\BepTroLy.Domain.pdb
+D:\Bep_Tro_Ly\Backend\BepTroLy.Domain\obj\Debug\net7.0\ref\BepTroLy.Domain.dll

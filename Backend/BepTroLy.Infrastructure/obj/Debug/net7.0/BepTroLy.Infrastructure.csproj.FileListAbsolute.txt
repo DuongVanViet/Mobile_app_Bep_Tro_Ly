@@ -1,0 +1,17 @@
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.csproj.AssemblyReference.cache
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.AssemblyInfoInputs.cache
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.AssemblyInfo.cs
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\bin\Debug\net7.0\BepTroLy.Infrastructure.deps.json
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\bin\Debug\net7.0\BepTroLy.Infrastructure.runtimeconfig.json
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\bin\Debug\net7.0\BepTroLy.Infrastructure.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\bin\Debug\net7.0\BepTroLy.Infrastructure.pdb
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\bin\Debug\net7.0\BepTroLy.Domain.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\bin\Debug\net7.0\BepTroLy.Domain.pdb
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.11469DE1.Up2Date
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\refint\BepTroLy.Infrastructure.dll
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.pdb
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\BepTroLy.Infrastructure.genruntimeconfig.cache
+D:\Bep_Tro_Ly\Backend\BepTroLy.Infrastructure\obj\Debug\net7.0\ref\BepTroLy.Infrastructure.dll
